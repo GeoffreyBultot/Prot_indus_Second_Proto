@@ -1,0 +1,306 @@
+fileFormatVersion: 2
+guid: d1a6390d8c93ef94f8c717994b747062
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: object1
+    100002: object10
+    100004: object11
+    100006: object12
+    100008: object13
+    100010: object14
+    100012: object15
+    100014: object16
+    100016: object17
+    100018: object18
+    100020: object19
+    100022: object2
+    100024: object20
+    100026: object21
+    100028: object3
+    100030: object4
+    100032: object5
+    100034: object6
+    100036: object7
+    100038: object8
+    100040: object9
+    100042: //RootNode
+    400000: object1
+    400002: object10
+    400004: object11
+    400006: object12
+    400008: object13
+    400010: object14
+    400012: object15
+    400014: object16
+    400016: object17
+    400018: object18
+    400020: object19
+    400022: object2
+    400024: object20
+    400026: object21
+    400028: object3
+    400030: object4
+    400032: object5
+    400034: object6
+    400036: object7
+    400038: object8
+    400040: object9
+    400042: //RootNode
+    2300000: object1
+    2300002: object10
+    2300004: object11
+    2300006: object12
+    2300008: object13
+    2300010: object14
+    2300012: object15
+    2300014: object16
+    2300016: object17
+    2300018: object18
+    2300020: object19
+    2300022: object2
+    2300024: object20
+    2300026: object21
+    2300028: object3
+    2300030: object4
+    2300032: object5
+    2300034: object6
+    2300036: object7
+    2300038: object8
+    2300040: object9
+    3300000: object1
+    3300002: object10
+    3300004: object11
+    3300006: object12
+    3300008: object13
+    3300010: object14
+    3300012: object15
+    3300014: object16
+    3300016: object17
+    3300018: object18
+    3300020: object19
+    3300022: object2
+    3300024: object20
+    3300026: object21
+    3300028: object3
+    3300030: object4
+    3300032: object5
+    3300034: object6
+    3300036: object7
+    3300038: object8
+    3300040: object9
+    4300000: object21
+    4300002: object20
+    4300004: object19
+    4300006: object18
+    4300008: object17
+    4300010: object16
+    4300012: object15
+    4300014: object14
+    4300016: object13
+    4300018: object12
+    4300020: object11
+    4300022: object10
+    4300024: object9
+    4300026: object8
+    4300028: object7
+    4300030: object6
+    4300032: object5
+    4300034: object4
+    4300036: object3
+    4300038: object2
+    4300040: object1
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brakes
+    second: {fileID: 2100000, guid: d5fd5d4dd14f4174894c4427787f0716, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pccad1__Ad2_bmp
+    second: {fileID: 2100000, guid: faf8fd9622e761e409fa5990fa631417, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pccad2__Ad1_bmp_001
+    second: {fileID: 2100000, guid: 2f5d524e07395e341bafe051533c76ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pccad3__Ad1_bmp
+    second: {fileID: 2100000, guid: 2f5d524e07395e341bafe051533c76ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pccad4
+    second: {fileID: 2100000, guid: 90822cdce65ee824e8d821d3a00d33e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pccbumper
+    second: {fileID: 2100000, guid: ded1fdd8e40af924ba33f28b408e592f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pccchrome
+    second: {fileID: 2100000, guid: 1f612941b73b99e458543b626b5cdaf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pccgasket
+    second: {fileID: 2100000, guid: 7158c26050f0e6848822511c952953ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pccglass
+    second: {fileID: 2100000, guid: cfc1ca242a9a0dd488c69a6935aeda95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pccgray
+    second: {fileID: 2100000, guid: ce1f192fb4923614d89993dfd2885a6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pcchlight
+    second: {fileID: 2100000, guid: 9ddf5252f6d155447bc00443a3f87c59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pccmid
+    second: {fileID: 2100000, guid: 6be9506a8bff06a4aa23d315cfa5b211, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pccroof
+    second: {fileID: 2100000, guid: 635bd7d20a5e16747b2e34ac61ab22bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pccsign
+    second: {fileID: 2100000, guid: e459646262ffa824e88e3cb5c4d82260, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pccskirt
+    second: {fileID: 2100000, guid: e38d08685c390b04aaa95959b8d3b7a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pccspot
+    second: {fileID: 2100000, guid: 38ee164c3eca4df47987544d413cb138, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pcctlight
+    second: {fileID: 2100000, guid: 663e9418057586a47b391338e566049c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pcctop
+    second: {fileID: 2100000, guid: 5590b35a71fa5f64d80f1ec640ef7f9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rim
+    second: {fileID: 2100000, guid: 430dd746ccec51f46933f1cb565e79e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rim2
+    second: {fileID: 2100000, guid: 9443c77e3f749654eb3a177e1c721d71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: under
+    second: {fileID: 2100000, guid: 1a2d1ecfa6ce6c348aba03fbfee4a528, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

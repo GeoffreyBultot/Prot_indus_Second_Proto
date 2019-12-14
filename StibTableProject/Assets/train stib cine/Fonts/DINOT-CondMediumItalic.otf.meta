@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: 78e85e45af25344da91ad3394d5d95bb
+timeCreated: 1507733727
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DIN OT
+  fontNames:
+  - DIN OT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 69e6df12867e24b18891ac43ad170e14, type: 3}
+  - {fileID: 12800000, guid: 7084ae720308e48f28e0c0188f2c8c41, type: 3}
+  - {fileID: 12800000, guid: 58af78a3fef994648bc64b3aa0654cfb, type: 3}
+  - {fileID: 12800000, guid: 62382fc36f22f4aaba3e284b378b959e, type: 3}
+  - {fileID: 12800000, guid: 76a462948e9dd41fb9783403af5fdb5d, type: 3}
+  - {fileID: 12800000, guid: 6c41f3883991b4274a86a09267e2e039, type: 3}
+  - {fileID: 12800000, guid: 60828f88e84364809bd0b99a7dcd0a6f, type: 3}
+  - {fileID: 12800000, guid: 024a798b928204a389a2836b2bafcdf6, type: 3}
+  - {fileID: 12800000, guid: 0519322c3aa90427c9bf70e2a3014b89, type: 3}
+  - {fileID: 12800000, guid: 5b0bae2c8a33c4df8b14afe8a3111264, type: 3}
+  - {fileID: 12800000, guid: 6a1a033c5e1b843ae8db6edf7b4e91b6, type: 3}
+  - {fileID: 12800000, guid: 20a81e9d43b8e48bbb972ac555f78171, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

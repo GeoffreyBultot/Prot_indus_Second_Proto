@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 115d7c843cce5a940a550c4db9b18cab
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: lampadaires_Building_Tour_Finances_-_Financietoren_015
+    100002: MainMap
+    100004: MainMap_MeshPart0
+    100006: MainMap_MeshPart1
+    100008: MainMap_MeshPart2
+    100010: //RootNode
+    100012: road_Building_Tour_Finances_-_Financietoren_003
+    100014: roadMarking_Building_Tour_Finances_-_Financietoren_014
+    100016: steps_Building_Tour_Finances_-_Financietoren_006
+    100018: tracks_Building_Tour_Finances_-_Financietoren_009
+    100020: tracks_Building_Tour_Finances_-_Financietoren_009_MeshPart0
+    100022: tracks_Building_Tour_Finances_-_Financietoren_009_MeshPart1
+    100024: walldeco_Building_Tour_Finances_-_Financietoren_004
+    100026: water_Building_Tour_Finances_-_Financietoren_016
+    400000: lampadaires_Building_Tour_Finances_-_Financietoren_015
+    400002: MainMap
+    400004: MainMap_MeshPart0
+    400006: MainMap_MeshPart1
+    400008: MainMap_MeshPart2
+    400010: //RootNode
+    400012: road_Building_Tour_Finances_-_Financietoren_003
+    400014: roadMarking_Building_Tour_Finances_-_Financietoren_014
+    400016: steps_Building_Tour_Finances_-_Financietoren_006
+    400018: tracks_Building_Tour_Finances_-_Financietoren_009
+    400020: tracks_Building_Tour_Finances_-_Financietoren_009_MeshPart0
+    400022: tracks_Building_Tour_Finances_-_Financietoren_009_MeshPart1
+    400024: walldeco_Building_Tour_Finances_-_Financietoren_004
+    400026: water_Building_Tour_Finances_-_Financietoren_016
+    2300000: lampadaires_Building_Tour_Finances_-_Financietoren_015
+    2300002: MainMap_MeshPart0
+    2300004: MainMap_MeshPart1
+    2300006: MainMap_MeshPart2
+    2300008: road_Building_Tour_Finances_-_Financietoren_003
+    2300010: roadMarking_Building_Tour_Finances_-_Financietoren_014
+    2300012: steps_Building_Tour_Finances_-_Financietoren_006
+    2300014: tracks_Building_Tour_Finances_-_Financietoren_009_MeshPart0
+    2300016: tracks_Building_Tour_Finances_-_Financietoren_009_MeshPart1
+    2300018: walldeco_Building_Tour_Finances_-_Financietoren_004
+    2300020: water_Building_Tour_Finances_-_Financietoren_016
+    3300000: lampadaires_Building_Tour_Finances_-_Financietoren_015
+    3300002: MainMap_MeshPart0
+    3300004: MainMap_MeshPart1
+    3300006: MainMap_MeshPart2
+    3300008: road_Building_Tour_Finances_-_Financietoren_003
+    3300010: roadMarking_Building_Tour_Finances_-_Financietoren_014
+    3300012: steps_Building_Tour_Finances_-_Financietoren_006
+    3300014: tracks_Building_Tour_Finances_-_Financietoren_009_MeshPart0
+    3300016: tracks_Building_Tour_Finances_-_Financietoren_009_MeshPart1
+    3300018: walldeco_Building_Tour_Finances_-_Financietoren_004
+    3300020: water_Building_Tour_Finances_-_Financietoren_016
+    4300000: MainMap_MeshPart0
+    4300002: MainMap_MeshPart1
+    4300004: MainMap_MeshPart2
+    4300006: tracks_Building_Tour_Finances_-_Financietoren_009_MeshPart0
+    4300008: tracks_Building_Tour_Finances_-_Financietoren_009_MeshPart1
+    4300010: water_Building_Tour_Finances_-_Financietoren_016
+    4300012: steps_Building_Tour_Finances_-_Financietoren_006
+    4300014: roadMarking_Building_Tour_Finances_-_Financietoren_014
+    4300016: road_Building_Tour_Finances_-_Financietoren_003
+    4300018: lampadaires_Building_Tour_Finances_-_Financietoren_015
+    4300020: walldeco_Building_Tour_Finances_-_Financietoren_004
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ASPHALT
+    second: {fileID: 2100000, guid: 94dce7996f47aa8468655c6e2445ad9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BUILDING_DEFAULT
+    second: {fileID: 2100000, guid: 9f197b96420a8374e9f908328f4ec75c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_0
+    second: {fileID: 2100000, guid: df0219afe5735ec46bb0e6b74a61bb74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parc
+    second: {fileID: 2100000, guid: 988207859d031fa46a9b4792f501c0f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RAIL_DEFAULT
+    second: {fileID: 2100000, guid: 21a38ed2ee6d130488115d4d8c21853a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RAIL_SLEEPER_DEFAULT
+    second: {fileID: 2100000, guid: 0719802d080e1f04ab1c336456e43b35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROAD_MARKING
+    second: {fileID: 2100000, guid: 8bc7a9c68125f9c48a00bb8bf6329ab2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROOF_DEFAULT
+    second: {fileID: 2100000, guid: 5cedf9a7a9fd4124e91a6afc19188b8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: STEEL
+    second: {fileID: 2100000, guid: ddc0c43cf9057a04694ac9587f53ef27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WALL_DEFAULT
+    second: {fileID: 2100000, guid: 97faed7ce243701428604f5abfcfd748, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WATER
+    second: {fileID: 2100000, guid: a5e438fa3097f0a46979c3205bacaf31, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

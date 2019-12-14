@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 80c9ebbd939c0ec40904ce84781be0f4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Building Tour Finances - Financietoren
+    100002: Building Tour Finances - Financietoren_MeshPart0
+    100004: Building Tour Finances - Financietoren_MeshPart1
+    100006: Building Tour Finances - Financietoren_MeshPart2
+    100008: Camera
+    100010: Cube
+    100012: Cube.001
+    100014: Cube.002
+    100016: Cube.003
+    100018: Cube.004
+    100020: Cube.006
+    100022: Cube.007
+    100024: Lamp
+    100026: //RootNode
+    100028: testcube
+    400000: Building Tour Finances - Financietoren
+    400002: Building Tour Finances - Financietoren_MeshPart0
+    400004: Building Tour Finances - Financietoren_MeshPart1
+    400006: Building Tour Finances - Financietoren_MeshPart2
+    400008: Camera
+    400010: Cube
+    400012: Cube.001
+    400014: Cube.002
+    400016: Cube.003
+    400018: Cube.004
+    400020: Cube.006
+    400022: Cube.007
+    400024: Lamp
+    400026: //RootNode
+    400028: testcube
+    2300000: Building Tour Finances - Financietoren_MeshPart0
+    2300002: Building Tour Finances - Financietoren_MeshPart1
+    2300004: Building Tour Finances - Financietoren_MeshPart2
+    2300006: Cube
+    2300008: Cube.001
+    2300010: Cube.002
+    2300012: Cube.003
+    2300014: Cube.004
+    2300016: Cube.006
+    2300018: Cube.007
+    2300020: testcube
+    3300000: Building Tour Finances - Financietoren_MeshPart0
+    3300002: Building Tour Finances - Financietoren_MeshPart1
+    3300004: Building Tour Finances - Financietoren_MeshPart2
+    3300006: Cube
+    3300008: Cube.001
+    3300010: Cube.002
+    3300012: Cube.003
+    3300014: Cube.004
+    3300016: Cube.006
+    3300018: Cube.007
+    3300020: testcube
+    4300000: Cube
+    4300002: Building Tour Finances - Financietoren_MeshPart0
+    4300004: Building Tour Finances - Financietoren_MeshPart1
+    4300006: Building Tour Finances - Financietoren_MeshPart2
+    4300008: Cube.007
+    4300010: Cube.006
+    4300012: Cube.004
+    4300014: Cube.003
+    4300016: Cube.002
+    4300018: Cube.001
+    4300020: testcube
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ADVERTISING_POSTER
+    second: {fileID: 2100000, guid: 75b6edc8aaeff31498fd6f333abb9d83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ASPHALT
+    second: {fileID: 2100000, guid: 94dce7996f47aa8468655c6e2445ad9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BUILDING_DEFAULT
+    second: {fileID: 2100000, guid: 9f197b96420a8374e9f908328f4ec75c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CONCRETE
+    second: {fileID: 2100000, guid: bd2b123e262870e4db94efaf33beeeb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EARTH
+    second: {fileID: 2100000, guid: 953d57a290dd2794cba9944aaff6299b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENTRANCE_DEFAULT
+    second: {fileID: 2100000, guid: d4bb356809298fc4f99412a94621ff36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GRAVEL
+    second: {fileID: 2100000, guid: f39357869d7b04b41b5b6a0d44bd3407, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HANDRAIL_DEFAULT
+    second: {fileID: 2100000, guid: 9208f7670f8bbd9458bfa316954bd923, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_0
+    second: {fileID: 2100000, guid: df0219afe5735ec46bb0e6b74a61bb74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_1
+    second: {fileID: 2100000, guid: 739825b0d5ce9f24e950760b995fb7d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RAIL_BALLAST_DEFAULT
+    second: {fileID: 2100000, guid: d62c8bd2bb395ad46adafab0df04c883, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RAIL_DEFAULT
+    second: {fileID: 2100000, guid: 21a38ed2ee6d130488115d4d8c21853a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RAIL_SLEEPER_DEFAULT
+    second: {fileID: 2100000, guid: 0719802d080e1f04ab1c336456e43b35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROAD_MARKING
+    second: {fileID: 2100000, guid: 8bc7a9c68125f9c48a00bb8bf6329ab2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROOF_DEFAULT
+    second: {fileID: 2100000, guid: 5cedf9a7a9fd4124e91a6afc19188b8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: STEEL
+    second: {fileID: 2100000, guid: ddc0c43cf9057a04694ac9587f53ef27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: STEPS_DEFAULT
+    second: {fileID: 2100000, guid: 99ff83ff23858f844ba7c622c973b9f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TUNNEL_DEFAULT
+    second: {fileID: 2100000, guid: e4da3bc9093e9de47a98a208fc027350, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WALL_DEFAULT
+    second: {fileID: 2100000, guid: 97faed7ce243701428604f5abfcfd748, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WATER
+    second: {fileID: 2100000, guid: a5e438fa3097f0a46979c3205bacaf31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WOOD
+    second: {fileID: 2100000, guid: fabcc9228e3876f4eae58b841660adc9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

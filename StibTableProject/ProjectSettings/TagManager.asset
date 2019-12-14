@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Arret
+  - Tram
+  - NavMeshDestination
+  - car
+  - carBounds
+  - ArretE
+  - ArretW
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - UIMenu
+  - UIMeteoScreen
+  - UIGare
+  - maquetteLight
+  - meteoLight
+  - UIstib
+  - terrain
+  - UITrafic
+  - UIVillo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: front
+    uniqueID: 4059583881
+    locked: 0

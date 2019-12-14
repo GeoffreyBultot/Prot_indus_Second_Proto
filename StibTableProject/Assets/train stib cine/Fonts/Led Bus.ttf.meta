@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 96f254f64a97d47549716ae213845885
+timeCreated: 1553585098
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Led Bus
+  fontNames:
+  - Led Bus
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
